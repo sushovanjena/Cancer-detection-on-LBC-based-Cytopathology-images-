@@ -1,0 +1,1 @@
+sftp_path = "/run/user/1000/gvfs/sftp:host=192.168.1.11,user=aindra/"
