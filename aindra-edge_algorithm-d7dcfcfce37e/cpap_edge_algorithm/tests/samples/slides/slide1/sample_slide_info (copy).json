@@ -1,0 +1,27 @@
+{"patient": {
+	"caseNo":0,
+	"name":"patient name",
+	"sex": "patient gender",
+	"DOB": "date of birth of the patient",
+	"maritalStatus":"marriage status of the patient",
+	"address": "patient address",
+	"phone": "patient phone number",
+	"email":"patient email id"
+	},
+"guardian":{
+	"name":"guardian name",
+	"sex":"guardian gender",
+	"phone":"guardian phone number",
+	"email":"guardian email id"
+	},
+"slide":{
+	"accessionNumber":0,
+	"totalImages": 14480,
+	"totalRows": 181,
+	"totalColumns": 80,
+	"overlapMicrons": 30,
+	"objectiveMagnification":0,
+	"imageFormat":"jpeg"
+	}
+}
+

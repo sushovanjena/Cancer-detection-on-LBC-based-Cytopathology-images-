@@ -1,0 +1,12 @@
+# For image processing functions
+numpy
+inotify
+tensorflow
+tensorflow_hub
+
+tqdm
+#PyGObject
+opencv-python==4.2.0.32
+openslide-python
+
+
